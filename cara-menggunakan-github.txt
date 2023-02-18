@@ -1,0 +1,12 @@
+Pada kali ini, Saya akan jelaskan sedikit mengenai cara menggunakan github, karena github cukup sedikit berbeda dan memusingkan tidak seperti google drive ataupun media penyimpanan lainnya.
+Jika Anda hanya ingin membaca/mengambil file yang ada di github, seperti source code dosen, ataupun download file game atau extension game dll, baca baris nomor 5
+Jika Anda Memiliki kebutuhan untuk mengupload file tugas ke github atau ingin memulai sesuatu dari github, baca baris nomor 13
+
+Tutorial cara menggunakan github(tanpa akun) :
+1. Kunjungi link yang sudah dideskripsikan oleh sang pengirim (biasanya ada tulisan github.com/namapembuat atau sejenisnya) , lalu klik
+2. jika sudah, klik bagian repositories. Jika Anda sudah masuk didalam folder yang ada di repositories langsung melalui link (biasanya hanya berisi file-file dan folder), maka tidak perlu klik repositories lagi. Langsung petunjuk nomer 3
+3. Klik yang tulisannya ada hubungan dengan kebutuhan Anda, entah nama game ataau nama tugas Anda
+4. Jika sudah masuk repository nya, klik file yaang ada langsung atau yang ada dalam folder yang dibutuhkan
+5. Jika file berupa source code untuk pemrograman, maka copy isi tersebut dalam teks editor Anda 
+6. Jika file tersebut aadalah file yang perlu didownload, maka klik tombol download yang ada di atas file yg dibutuhkan, biasanya terletak sebaris dengan ukuran file tersebut
+
